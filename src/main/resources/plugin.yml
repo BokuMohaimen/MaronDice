@@ -1,0 +1,6 @@
+name: MaronDice
+version: @version@
+authors: Mohaimen_Ksr
+main: dice.marondice.MaronDice
+command:
+  mdice:
